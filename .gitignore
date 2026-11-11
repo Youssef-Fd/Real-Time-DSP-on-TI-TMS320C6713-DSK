@@ -1,0 +1,10 @@
+.metadata/
+**/Debug/
+**/.launches/
+**/.settings/
+RemoteSystemsTempFiles/
+dvt/
+*.obj
+*.out
+*.map
+*.lst
